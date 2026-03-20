@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @WalTvi
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning python ...
-- 📫 How to reach me m.fdez.valdes@gmail.com ...
+Hola, soy Matías Fernández Valdés, tengo 21 años y soy egresado de Ingeniería en Informática. Me interesa el desarrollo de software, el análisis de datos y el soporte TI. He trabajado con tecnologías como Python, Django, SQL y herramientas de visualización de datos.
+Me caracterizo por ser proactivo, con ganas de seguir aprendiendo y mejorar constantemente mis habilidades. Actualmente busco oportunidades para crecer profesionalmente y aportar en proyectos tecnológicos.
 
 <!---
 WalTvi/WalTvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
